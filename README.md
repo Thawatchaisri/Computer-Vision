@@ -1,6 +1,6 @@
 # Computer-Vision
-Tool 
+Tool / Stack
   - CIRA Core
-Stack
-  - OpenCV
+  - Python
+  - tiny model
 
